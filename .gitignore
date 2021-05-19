@@ -5,3 +5,7 @@ Thumbs.db
 Thumbs.db:encryptable
 ehthumbs.db
 ehthumbs_vista.db
+#documentacion de mac
+.DS_Store
+.AppleDouble
+.LSOverride
